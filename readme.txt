@@ -1,0 +1,1 @@
+this is a weather app catered toward schools
